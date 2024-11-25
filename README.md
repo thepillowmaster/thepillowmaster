@@ -2,7 +2,7 @@
 
 # 👋 Hello There!
 
-### Welcome to my GitHub profile! I'm **thepillowmaster** 👑
+### Welcome to my GitHub profile! I'm **thepillowmaster** 
 
 ---
 

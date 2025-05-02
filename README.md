@@ -6,7 +6,7 @@
 
 ---
 
-I'm a passionate developer who has been learning for **almost a year**, using that time to dive deep into various programming languages and projects. My expertise spans **Luau**, **Python**, and **C++**, among others, which I use to craft efficient and creative solutions.
+I'm a passionate developer who has been learning for **almost two year**. My expertise spans **Luau**, **Python**, and **C++**.
 
 ### 🛠️ My Toolbox:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
